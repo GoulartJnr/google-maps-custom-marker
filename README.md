@@ -6,5 +6,5 @@ Exemplo, simples, para utilizar marcador personalizado no Google Maps
 
 Para visualizar uma cópia funcionando, basta acessar o link do JSFiddle
 
-* **Single Marker** (https://jsfiddle.net/goulart/ygf0cw1b/)
+* **Single Marker** (https://jsfiddle.net/goulart/ygf0cw1b/ "GMaps Single Marker" target="_blank")
 * **Multiple Marker** (https://jsfiddle.net/goulart/erwjc5fh/)
